@@ -12,7 +12,7 @@ This project contains SQL-based data analysis projects, which are part of my lea
 - **`Task 1.sql`**: SQL queries for various analysis tasks.
 - **`Task 2.sql`**: Additional queries for cross-commodity and missing data reports.
 
-### 2. [P2 - Logistics and Supply Chain](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P2%20-%20Logistics%20and%20Supply%20Chain/Cleaning%20Data%20Logistic.ipynb) (Not Done Yet 🙂)
+### 2. [P2 - Logistics and Supply Chain](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P2%20-%20Logistics%20and%20Supply%20Chain/!Explanation%2C%20Insight%20%26%20Conclusion.md)
 
 For this project, I used **Python** for data cleaning on the **logistics and supply chain dataset** (source: [Kaggle](https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset/data)) and **Power BI** to create interactive visualizations. The visualizations cover metrics such as fuel consumption, delivery time deviation, traffic congestion levels, and warehouse inventory levels, which help analyze operational efficiency and risk management within the supply chain.
 
