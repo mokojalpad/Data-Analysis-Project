@@ -1,3 +1,5 @@
+![Dashboard](img/Logistics%20Visual_page-0001.jpg)
+
 # Project Explanation: Real-Time Logistics Performance Overview
 
 For this project, I obtained the dataset from [Kaggle: Logistics and Supply Chain Dataset](https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset/data). I performed data cleaning using Python and Pandas to ensure the dataset was ready for analysis. The goal of this project was to create a dashboard that presents real-time logistics performance, focusing on several key metrics related to delivery, fuel consumption, and warehouse inventory management. The visualizations I created aim to provide a clear and structured overview of various factors impacting logistics operations, enabling data-driven decision-making.
