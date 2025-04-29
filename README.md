@@ -22,7 +22,7 @@ For this project, I used **Python** for data cleaning on the **logistics and sup
 - **`Logistics Visual.pbix`**: This is the Power BI file containing the visualizations that provide insights into the supply chain and logistics data, including metrics like fuel consumption, delivery delays, and inventory levels.
 - **`supply_chain_logistics_cleaned.csv`**: This is the final cleaned dataset after processing, ready for analysis and visualization.
 
-### 3. [P3 - Top Spotify Songs](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P3%20-Top%20Spotify%20Songs/!Explanation%2C%20Insight%20%26%20Conclusion.md) (on progress 😊)
+### 3. [P3 - Top Spotify Songs](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P3%20-Top%20Spotify%20Songs/!Explanation%2C%20Insight%20%26%20Conclusion.md)
 
 In this project, like befor I used **Python** for data cleaning on the **Top Spotify Songs** (source: [Kaggle](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/data)) and Power BI to create visualizations dashboard. The visualizations consist of several parts of overview, trends, Demographics, Tracks.
 
