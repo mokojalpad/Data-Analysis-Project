@@ -2,9 +2,9 @@
 
 The dashboard provides a comprehensive overview of the top-rated anime in 2024, highlighting key metrics such as **total titles**, **genres**, **studios**, and **highest scores**. It offers insights into **genre popularity**, **anime scores**, and **distribution across various categories**. The data is segmented by broadcast day, month, and demographic, providing a detailed view of trends and preferences in the anime industry.
 
-![Top-Rated](img/Visual2.png)
-
 ## Insight of Visualization
+
+![Top-Rated](../P4%20-%20Top%20Anime/Img/Visual2.png)
 
 ### Key Metrics and Trends
 
