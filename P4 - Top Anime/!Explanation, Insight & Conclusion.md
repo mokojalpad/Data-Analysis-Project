@@ -4,7 +4,7 @@ The dashboard provides a comprehensive overview of the top-rated anime in 2024, 
 
 ## Insight of Visualization
 
-![Visual2](img/Visual2.png)
+![Top-Rated](img/Visual2.png)
 
 ### Key Metrics and Trends
 
