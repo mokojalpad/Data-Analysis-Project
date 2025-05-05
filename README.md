@@ -32,7 +32,7 @@ In this project, like before I used **Python** for data cleaning on the **Top Sp
 - **`universal_top_spotify_songs.csv`**: A dataset containing a list of the most popular songs on Spotify globally, including data on song name, artist, popularity, and possibly some other metrics. [download file](https://drive.google.com/file/d/1pE2sk2cF0y_6pRCKiMZwxt79ibiMtR8p/view?usp=sharing)
 - **`Visual Spotify Dataset.pbix`**: A Power BI file containing an interactive visual dashboard that displays data analysis of Spotify songs using various graphs and metrics for better understanding.
 
-### 4. [P4 - Top Anime](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P4%20-Top%20Anime/!Explanation%2C%20Insight%20%26%20Conclusion.md)
+### 4. [P4 - Top Anime](https://github.com/mokojalpad/Data-Analysis-Project/blob/main/P4%20-%20Top%20Anime/!Explanation%2C%20Insight%20%26%20Conclusion.md)
 
 In this project, I used **Excel** for cleaning the dataset from the **Top Anime Dataset 2024** (source: [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-anime-dataset-2024/data)), especially using **Power Query**. Then, I used Power BI to visualize the data. The visuals show information about the top-rated anime in 2024, including things like top anime, genre, rating distribution, type, duration, and status, as well as trends based on days and months.
 
